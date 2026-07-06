@@ -1,7 +1,7 @@
 # Hi, I'm Selvi 👋
 
   Computer Science graduate (2026) from the **American University of Armenia**.
-  I build across the stack — from ML models to full-stack web apps and game prototypes.
+  I build across the stack, from ML models to full-stack web apps and game prototypes.
 
   ## 🛠️  Tech
   Python · Java · JavaScript · C# · SQL
